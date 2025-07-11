@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* common style  -->*/
+
+/* common btn */
+
+
+
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+}
