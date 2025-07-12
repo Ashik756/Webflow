@@ -98,14 +98,14 @@ header>div>h1{
 
 #user-data-number{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     text-align: center;
 }
 #user-data-number>div>h3{
     font-size: 80px;
     font-weight: bold;
     color: var(--primary-color);
-    margin-bottom: 40px;
+    margin: 28px 0;
 }
 #user-data-number>div>p{
     font-size: 20px;
